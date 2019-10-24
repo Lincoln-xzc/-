@@ -12,6 +12,7 @@ tags:
 
 一. 小程序框架介绍和运行机制 
     打开微信开发者工具，然后点击创建新项目。选择“普通快速启动模块”,然后整个项目目录如下，我这边引入了weui。
+    ![image](https://github.com/Lincoln-xzc/-/blob/master/images/create.png)
 
     
     接下来我们来介绍一下小程序的主要项目文件。
